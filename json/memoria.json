@@ -1,0 +1,9 @@
+[{"id":49 ,"nombre": "Disco Solido 120Gb Gigabyte","precio": 3589, "cantidad": 1,"img": "../images/DiscoSolidoSsd120GbGigabyte-min.jpeg"},
+{"id":50 ,"nombre": "Disco Solido 120Gb Kingston A400","precio": 4189, "cantidad": 1,"img": "../images/DiscoSolidoSsd120GbKingstonA400-min.jpeg"},
+{"id":51 ,"nombre": "Disco Solido 240Gb Gigabyte","precio": 4989, "cantidad": 1,"img": "../images/DiscoSolidoSsd240GbGigabyte-min.jpeg"},
+{"id":52 ,"nombre": "Disco Solido Externo 1Tb Kingston XS2000","precio": 33179, "cantidad": 1,"img": "../images/DiscoSolidoExternoSsd1TbKingstonXS2000-min.jpeg"},
+{"id":53 ,"nombre": "Disco Solido M2 Pci-E 256Gb Gigabyte","precio": 6689, "cantidad": 1,"img": "../images/DiscoSolidoSsdM2Pci-E256GbGigabyte-min.jpeg"},
+{"id":54 ,"nombre": "Pendrive 32 Gb Kingston DT Locker G3","precio": 9189, "cantidad": 1,"img": "../images/PenDrive32Gb.Kingston-DTLockerG3.jpeg"},
+{"id":55 ,"nombre": "Disco Rigido 1Tb Seagate Skyhawk","precio": 6889, "cantidad": 1,"img": "../images/DiscoRigido1TbSeagateSkyhawk-min.jpeg"},
+{"id":56 ,"nombre": "Disco Rigido 2Tb Seagate Barracuda 7200 Rpm","precio": 8089, "cantidad": 1,"img": "../images/DiscoRigido2TbSeagateBarracuda7200Rpm-min.jpeg"}
+]

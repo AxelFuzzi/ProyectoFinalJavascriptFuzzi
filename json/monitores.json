@@ -1,0 +1,9 @@
+[{"id":9 ,"nombre": "Monitor 24 Asus VG248QG 165Hz G-Sync 0.5Ms","precio": 58999, "cantidad": 1,"img": "../images/Monitor24AsusVG248QG165HzG-Sync0.5Ms.jpg"},
+{"id":10 ,"nombre": "Monitor 24 Asus VG24VQE FHD VA 165Hz","precio": 54990, "cantidad": 1,"img": "../images/Monitor24AsusVG24VQEFHDVA165Hz-min.png"},
+{"id":11 ,"nombre": "Monitor 27 Led Acer XB273 Predator FHD 144Hz","precio": 71990, "cantidad": 1, "img": "../images/Monitor27LedAcerXB273PredatorFHD144Hz-min.png"},
+{"id":12 ,"nombre": "Monitor Gigabyte 27″ M27Q 2K 170hz 0.5ms","precio": 92630, "cantidad": 1,"img": "../images/MonitorGigabyte27″M27Q2K170hz0.5ms.jpg"},
+{"id":13 ,"nombre": "Monitor Samsung 24T350FH 24″ IPS 75hz","precio": 32450, "cantidad": 1,"img": "../images/MonitorSamsung24T350FH24″IPS75hz.jpg"},
+{"id":14 ,"nombre": "Monitor LG 24MK430H-B 24″ IPS 75hz","precio": 30680, "cantidad": 1,"img": "../images/MonitorLG24MK430H-B24″IPS75hz.jpg"},
+{"id":15 ,"nombre": "Monitor LG 27GP750-B 27″ IPS 240HZ","precio": 94400, "cantidad": 1,"img": "../images/MonitorLG27GP750-B27″IPS240HZ.jpg"},
+{"id":16 ,"nombre": "Monitor LG 34GL750-B 34″ Ultrawide 144hz","precio": 146084, "cantidad": 1,"img": "../images/MonitorLG34GL750-B34″Ultrawide144hz.jpg"}
+]

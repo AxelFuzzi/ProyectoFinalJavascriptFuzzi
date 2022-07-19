@@ -1,0 +1,9 @@
+[{"id":41 ,"nombre": "Gabinete Thermaltake V200 + Fuente 500w","precio": 13739, "cantidad": 1,"img": "../images/GabineteThermaltakeV200+Fuente500w.jpg"},
+{"id":42 ,"nombre": "Gabinete Thermaltake H350 TG Black RGB","precio": 10439, "cantidad": 1,"img": "../images/GabineteThermaltakeH350TGBlackRGB.jpg"},
+{"id":43 ,"nombre": "Gabinete Thermaltake Versa H17 Black","precio": 9889, "cantidad": 1,"img": "../images/GabineteThermaltakeVersaH17Black.jpg"},
+{"id":44 ,"nombre": "Gabinete Gigabyte C200G Mid Tower","precio": 12639, "cantidad": 1,"img": "../images/GabineteGigabyteC200GMidTower-min.jpg"},
+{"id":45 ,"nombre": "Gabinete Gigabyte C300 RGB Aorus Black","precio": 22990, "cantidad": 1,"img": "../images/GabineteGigabyteC300RGBAorusBlack-min.png"},
+{"id":46 ,"nombre": "Gabinete Mini Tower Sentey F10 Rgb","precio": 4989, "cantidad": 1,"img": "../images/GabineteMiniTowerSenteyF10Rgb.jpeg"},
+{"id":47 ,"nombre": "Gabinete Mid Tower Sentey S20-SF","precio": 5049, "cantidad": 1,"img": "../images/GabineteMidTowerSenteyS20-SF.jpeg"},
+{"id":48 ,"nombre": "Gabinete Mid Tower Sentey K20 Super Rgb Vidrio Templado","precio": 8889, "cantidad": 1,"img": "../images/GabineteMidTowerSenteyK20SuperRgbVidrioTemplado.jpeg"}
+]

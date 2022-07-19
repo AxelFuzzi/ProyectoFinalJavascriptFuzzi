@@ -1,0 +1,9 @@
+[{"id":17 ,"nombre": "Vga AFOX Radeon RX580 8GB GDDR5","precio": 83072, "cantidad": 1,"img": "../images/VgaAFOXRadeonRX5808GBGDDR5.jpg"},
+{"id":18 ,"nombre": "Vga Asus TUF OC RX6700XT 12GB","precio": 200600, "cantidad": 1,"img": "../images/VgaAsusTUFOCRX6700XT12GB.jpg"},
+{"id":19 ,"nombre": "Vga Asus TUF RTX3090 24GB GDDR6","precio": 519200, "cantidad": 1,"img": "../images/VgaAsusTUFRTX309024GBGDDR6.jpg"},
+{"id":20 ,"nombre": "Vga Gigabyte GT1030 DDR4 LP","precio": 16756, "cantidad": 1,"img": "../images/VgaGigabyteGT1030DDR4LP.jpg"},
+{"id":21 ,"nombre": "Msi Geforce Gt 710 1gb Ddr3","precio": 8799, "cantidad": 1,"img": "../images/MsiGeforceGt7101gbDdr3-min.png"},
+{"id":22 ,"nombre": "Placa De Video MSI Nvidia GTX 1050Ti Gaming X 4Gb DDR5","precio": 50999, "cantidad": 1,"img": "../images/PlacaDeVideoMSINvidiaGTX1050TiGamingX4GbDDR5.jpg"},
+{"id":23 ,"nombre": "Placa de Video Asus Nvidia Geforce Rtx 3090 TUF Gaming Oc 24G","precio": 504999, "cantidad": 1,"img": "../images/PlacadeVideoAsusNvidiaGeforceRtx3090TUFGamingOc24G.jpg"},
+{"id":24 ,"nombre": "Placa De Video Asrock AMD Radeon RX 6700 XT 12Gb GDDR6 Challenger OC Edition", "precio": 179999, "cantidad": 1, "img": "../images/PlacaDeVideoAsrockAMDRadeonRX6700XT12GbGDDR6ChallengerOCEdition.png"}
+]

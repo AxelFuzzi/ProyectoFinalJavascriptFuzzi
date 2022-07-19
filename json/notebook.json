@@ -1,0 +1,9 @@
+[{"id":1, "nombre": "notebook apple macbook pro m113 inches 8gb 26 space grey", "precio": 269990, "cantidad": 1, "img": "../images/notebook_apple_macbook_pro_m113_inches_8gb_256_space_grey.jpg"},
+{"id":2 ,"nombre": "Notebook Asus X515EA-BQ085 i3 1115G4 4Gb SSD 256Gb 15.6 Free","precio": 78690 ,"cantidad": 1,"img":"../images/notebookasusx515ea-bq085i31115g44gbssd256gb15.6free.jpg"},
+{"id":3 ,"nombre": "Notebook Asus Strix G512LI I5 1650ti 144hz","precio": 195408, "cantidad": 1,"img":"../images/NotebookAsusStrixG512LII51650ti144hz.jpg"},
+{"id":4 ,"nombre": "Notebook Asus TUF FX506H i5 RTX3050","precio": 218300, "cantidad": 1,"img":"../images/NotebookAsusTUFFX506Hi5RTX3050.jpg"},
+{"id":5 ,"nombre": "Notebook Asus ZenBook 14″ I5 SSD 512GB MX250","precio": 140420, "cantidad": 1,"img": "../images/NotebookAsusZenBook14″I5SSD512GBMX250.jpg"},
+{"id":6 ,"nombre": "Notebook Asus Zephyrus Duo GX551 R9 RTX3080","precio": 690300, "cantidad": 1,"img": "../images/NotebookAsusZephyrusDuoGX551R9RTX3080.jpg"},
+{"id":7 ,"nombre": "Notebook Gigabyte Aero 15 Oled i7 RTX3060","precio": 324500, "cantidad": 1,"img": "../images/NotebookGigabyteAero15Oledi7RTX3060.jpg"},
+{"id":8 ,"nombre": "Notebook Gigabyte Aorus 15P YD i7 11800H RTX 3080P Nvme 1Tb 16Gb 15.6 240HZ W10H","precio": 439990, "cantidad": 1, "img":"../images/NotebookGigabyteAorus15PYDi711800HRTX3080PNvme1Tb16Gb15.6240HZW10H.jpg"}
+]

@@ -1,0 +1,9 @@
+[{"id":25 ,"nombre": "CPU amd Apu A6 7480 3.5 ghz FM2+","precio": 8.459, "cantidad": 1,"img": "../images/microamdapuA674803.5ghzfm2+.jpeg"},
+{"id":26 ,"nombre": "CPU AMD Ryzen 9 5950X AM4","precio": 106200, "cantidad": 1,"img": "../images/MicroAMDRyzen95950XAM4.jpg"},
+{"id":27 ,"nombre": "CPU Intel Core i9 12900K LGA1700","precio": 100300, "cantidad": 1,"img": "../images/MicroIntelCorei912900KLGA1700.jpg"},
+{"id":28 ,"nombre": "CPU Intel Pentium Gold G6405 S1200","precio": 14990, "cantidad": 1,"img": "../images/MicroprocesadorIntelPentiumGoldG6405S1200.dib"},
+{"id":29 ,"nombre": "CPU AMD Ryzen 5600g 4.4 Ghz AM4","precio": 39999, "cantidad": 1,"img": "../images/MicroprocesadorAMDRyzen5600g4.4GhzAM4.jpg"},
+{"id":30 ,"nombre": "CPU Intel Core i7 12700K LGA1700","precio": 70800, "cantidad": 1,"img": "../images/MicroIntelCorei712700KLGA1700.jpg"},
+{"id":31 ,"nombre": "CPU Amd Ryzen 7 5700G Vega 8 AM4","precio": 54280, "cantidad": 1,"img": "../images/MicroAmdRyzen75700GVega8AM4.jpg"},
+{"id":32 ,"nombre": "CPU Intel Celeron G6900 LGA1700","precio": 9322, "cantidad": 1,"img": "../images/MicroIntelCeleronG6900LGA1700.jpg"}
+]
